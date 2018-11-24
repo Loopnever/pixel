@@ -14,10 +14,11 @@ addons:
 go:
 - 1.8
 - 1.7.4
-- tip 
+- tip
+
 install:
 - go get -t ./...
+
 script:
 - go test -i -race ./...
 - go test -v -race ./...
-

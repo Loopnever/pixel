@@ -22,32 +22,33 @@ covering several topics of Pixel. Here's the content of the tutorial parts so fa
 - [Drawing efficiently with Batch](https://github.com/faiface/pixel/wiki/Drawing-efficiently-with-Batch)
 - [Drawing shapes with IMDraw](https://github.com/faiface/pixel/wiki/Drawing-shapes-with-IMDraw)
 - [Typing text on the screen](https://github.com/faiface/pixel/wiki/Typing-text-on-the-screen)
+- [Using a custom fragment shader](https://github.com/faiface/pixel/wiki/Using-a-custom-fragment-shader)
 
-## Examples
+## [Examples](https://github.com/faiface/pixel-examples)
 
-The [examples](https://github.com/faiface/pixel/tree/master/examples) directory contains a few
+The [examples](https://github.com/faiface/pixel-examples) repository contains a few
 examples demonstrating Pixel's functionality.
 
 **To run an example**, navigate to it's directory, then `go run` the `main.go` file. For example:
 
 ```
-$ cd examples/platformer
+$ cd pixel-examples/platformer
 $ go run main.go
 ```
 
 Here are some screenshots from the examples!
 
-| [Lights](examples/lights) | [Platformer](examples/platformer) |
+| [Lights](https://github.com/faiface/pixel-examples/blob/master/lights) | [Platformer](https://github.com/faiface/pixel-examples/blob/master/platformer) |
 | --- | --- |
-| ![Lights](examples/lights/screenshot.png) | ![Platformer](examples/platformer/screenshot.png) |
+| ![Lights](https://github.com/faiface/pixel-examples/blob/master/lights/screenshot.png) | ![Platformer](https://github.com/faiface/pixel-examples/blob/master/platformer/screenshot.png) |
 
-| [Smoke](examples/smoke) | [Typewriter](examples/typewriter) |
+| [Smoke](https://github.com/faiface/pixel-examples/blob/master/smoke) | [Typewriter](https://github.com/faiface/pixel-examples/blob/master/typewriter) |
 | --- | --- |
-| ![Smoke](examples/smoke/screenshot.png) | ![Typewriter](examples/typewriter/screenshot.png) |
+| ![Smoke](https://github.com/faiface/pixel-examples/blob/master/smoke/screenshot.png) | ![Typewriter](https://github.com/faiface/pixel-examples/blob/master/typewriter/screenshot.png) |
 
-| [Raycaster](examples/community/raycaster) | [Starfield](examples/community/starfield) |
+| [Raycaster](https://github.com/faiface/pixel-examples/blob/master/community/raycaster) | [gonutz' No-Brain Jogging](https://github.com/gonutz/no-brain-jogging) |
 | --- | --- |
-| ![Raycaster](examples/community/raycaster/screenshot.png) | ![Starfield](examples/community/starfield/screenshot.png) |
+| ![Raycaster](https://github.com/faiface/pixel-examples/blob/master/community/raycaster/screenshot.png) | ![NoBrainJogging](https://raw.githubusercontent.com/gonutz/no-brain-jogging/master/screenshots/screenshot.png) |
 
 ## Features
 
@@ -152,7 +153,7 @@ better result.
 Take a look at [CONTRIBUTING.md](CONTRIBUTING.md) for further information.
 
 For any kind of discussion, feel free to use our
-[Gitter](https://gitter.im/pixellib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[Gitter](https://gitter.im/pixellib/Lobby)
 community.
 
 ## License
